@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Mefit/static/css/main.114a1e63.css",
-    "main.js": "/Mefit/static/js/main.7a12f09b.js",
+    "main.css": "/Mefit/static/css/main.06cde076.css",
+    "main.js": "/Mefit/static/js/main.33cfe268.js",
     "static/js/488.dede3a7d.chunk.js": "/Mefit/static/js/488.dede3a7d.chunk.js",
     "static/media/veg.png": "/Mefit/static/media/veg.93a62d4b4de944a508d1.png",
-    "static/media/vegbowl.png": "/Mefit/static/media/vegbowl.329b665d62d674761cba.png",
     "static/media/meatbowl.png": "/Mefit/static/media/meatbowl.bf53064a2fc47f6c54fe.png",
+    "static/media/vegbowl.png": "/Mefit/static/media/vegbowl.e122a75966c7c828df55.png",
     "static/media/fruitbowl.png": "/Mefit/static/media/fruitbowl.2e0ef6398a42bda51d2a.png",
     "static/media/grapes.png": "/Mefit/static/media/grapes.75e8426720a46dcaa6c0.png",
     "static/media/back.png": "/Mefit/static/media/back.7ee1091d7a61092456c7.png",
     "static/media/eclp.png": "/Mefit/static/media/eclp.f316534b8baf0f33c9c5.png",
     "index.html": "/Mefit/index.html",
-    "main.114a1e63.css.map": "/Mefit/static/css/main.114a1e63.css.map",
-    "main.7a12f09b.js.map": "/Mefit/static/js/main.7a12f09b.js.map",
+    "main.06cde076.css.map": "/Mefit/static/css/main.06cde076.css.map",
+    "main.33cfe268.js.map": "/Mefit/static/js/main.33cfe268.js.map",
     "488.dede3a7d.chunk.js.map": "/Mefit/static/js/488.dede3a7d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.114a1e63.css",
-    "static/js/main.7a12f09b.js"
+    "static/css/main.06cde076.css",
+    "static/js/main.33cfe268.js"
   ]
 }
