@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Mefit/precache-manifest.e5f084b1d24d4902c21cbe5448c2cf0e.js"
+  "/Mefit/precache-manifest.4a8fed7567f93caf2140ca4e1b991573.js"
 );
 
 self.addEventListener('message', (event) => {
