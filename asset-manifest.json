@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Mefit/static/css/main.52ae8289.chunk.css",
+    "main.css": "/Mefit/static/css/main.f0104fae.chunk.css",
     "main.js": "/Mefit/static/js/main.7ebafb68.chunk.js",
     "main.js.map": "/Mefit/static/js/main.7ebafb68.chunk.js.map",
     "runtime-main.js": "/Mefit/static/js/runtime-main.68b2230c.js",
@@ -11,10 +11,10 @@
     "static/js/3.5b4a847c.chunk.js": "/Mefit/static/js/3.5b4a847c.chunk.js",
     "static/js/3.5b4a847c.chunk.js.map": "/Mefit/static/js/3.5b4a847c.chunk.js.map",
     "index.html": "/Mefit/index.html",
-    "precache-manifest.1dab852af58337c8979917b34e488823.js": "/Mefit/precache-manifest.1dab852af58337c8979917b34e488823.js",
+    "precache-manifest.a4f49a907e3d2af6b3c10267dd8d9358.js": "/Mefit/precache-manifest.a4f49a907e3d2af6b3c10267dd8d9358.js",
     "service-worker.js": "/Mefit/service-worker.js",
     "static/css/2.8ac840ac.chunk.css.map": "/Mefit/static/css/2.8ac840ac.chunk.css.map",
-    "static/css/main.52ae8289.chunk.css.map": "/Mefit/static/css/main.52ae8289.chunk.css.map",
+    "static/css/main.f0104fae.chunk.css.map": "/Mefit/static/css/main.f0104fae.chunk.css.map",
     "static/js/2.9506257d.chunk.js.LICENSE.txt": "/Mefit/static/js/2.9506257d.chunk.js.LICENSE.txt",
     "static/media/Rev1.png": "/Mefit/static/media/Rev1.ec009df8.png",
     "static/media/Rev2.png": "/Mefit/static/media/Rev2.9a89beec.png",
@@ -31,7 +31,7 @@
     "static/js/runtime-main.68b2230c.js",
     "static/css/2.8ac840ac.chunk.css",
     "static/js/2.9506257d.chunk.js",
-    "static/css/main.52ae8289.chunk.css",
+    "static/css/main.f0104fae.chunk.css",
     "static/js/main.7ebafb68.chunk.js"
   ]
 }
