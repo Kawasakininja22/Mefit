@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "81f94225847a94bedf1258a4bc89633b",
+    "revision": "7be832d939a320265bcfd9f1e58ee04f",
     "url": "/Mefit/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Mefit/static/css/2.8ac840ac.chunk.css"
   },
   {
-    "revision": "e11e3f01e98bdf691944",
-    "url": "/Mefit/static/css/main.b49a6e99.chunk.css"
+    "revision": "acb277226d812900eb63",
+    "url": "/Mefit/static/css/main.a6a9c2ab.chunk.css"
   },
   {
     "revision": "043bd2f8e460fe96a43a",
@@ -24,7 +24,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Mefit/static/js/3.5b4a847c.chunk.js"
   },
   {
-    "revision": "e11e3f01e98bdf691944",
+    "revision": "acb277226d812900eb63",
     "url": "/Mefit/static/js/main.7ebafb68.chunk.js"
   },
   {
