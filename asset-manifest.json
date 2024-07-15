@@ -1,22 +1,37 @@
 {
   "files": {
-    "main.css": "/Mefit/static/css/main.06cde076.css",
-    "main.js": "/Mefit/static/js/main.33cfe268.js",
-    "static/js/488.dede3a7d.chunk.js": "/Mefit/static/js/488.dede3a7d.chunk.js",
-    "static/media/veg.png": "/Mefit/static/media/veg.93a62d4b4de944a508d1.png",
-    "static/media/meatbowl.png": "/Mefit/static/media/meatbowl.bf53064a2fc47f6c54fe.png",
-    "static/media/vegbowl.png": "/Mefit/static/media/vegbowl.e122a75966c7c828df55.png",
-    "static/media/fruitbowl.png": "/Mefit/static/media/fruitbowl.2e0ef6398a42bda51d2a.png",
-    "static/media/grapes.png": "/Mefit/static/media/grapes.75e8426720a46dcaa6c0.png",
-    "static/media/back.png": "/Mefit/static/media/back.7ee1091d7a61092456c7.png",
-    "static/media/eclp.png": "/Mefit/static/media/eclp.f316534b8baf0f33c9c5.png",
+    "main.css": "/Mefit/static/css/main.9870cec0.chunk.css",
+    "main.js": "/Mefit/static/js/main.7ebafb68.chunk.js",
+    "main.js.map": "/Mefit/static/js/main.7ebafb68.chunk.js.map",
+    "runtime-main.js": "/Mefit/static/js/runtime-main.68b2230c.js",
+    "runtime-main.js.map": "/Mefit/static/js/runtime-main.68b2230c.js.map",
+    "static/css/2.8ac840ac.chunk.css": "/Mefit/static/css/2.8ac840ac.chunk.css",
+    "static/js/2.9506257d.chunk.js": "/Mefit/static/js/2.9506257d.chunk.js",
+    "static/js/2.9506257d.chunk.js.map": "/Mefit/static/js/2.9506257d.chunk.js.map",
+    "static/js/3.5b4a847c.chunk.js": "/Mefit/static/js/3.5b4a847c.chunk.js",
+    "static/js/3.5b4a847c.chunk.js.map": "/Mefit/static/js/3.5b4a847c.chunk.js.map",
     "index.html": "/Mefit/index.html",
-    "main.06cde076.css.map": "/Mefit/static/css/main.06cde076.css.map",
-    "main.33cfe268.js.map": "/Mefit/static/js/main.33cfe268.js.map",
-    "488.dede3a7d.chunk.js.map": "/Mefit/static/js/488.dede3a7d.chunk.js.map"
+    "precache-manifest.31ff980a7d1886a907b9cc410afd5146.js": "/Mefit/precache-manifest.31ff980a7d1886a907b9cc410afd5146.js",
+    "service-worker.js": "/Mefit/service-worker.js",
+    "static/css/2.8ac840ac.chunk.css.map": "/Mefit/static/css/2.8ac840ac.chunk.css.map",
+    "static/css/main.9870cec0.chunk.css.map": "/Mefit/static/css/main.9870cec0.chunk.css.map",
+    "static/js/2.9506257d.chunk.js.LICENSE.txt": "/Mefit/static/js/2.9506257d.chunk.js.LICENSE.txt",
+    "static/media/Rev1.png": "/Mefit/static/media/Rev1.ec009df8.png",
+    "static/media/Rev2.png": "/Mefit/static/media/Rev2.9a89beec.png",
+    "static/media/back.png": "/Mefit/static/media/back.2342132e.png",
+    "static/media/back1.png": "/Mefit/static/media/back1.6fd22488.png",
+    "static/media/About.css": "/Mefit/static/media/eclp.dbd65f51.png",
+    "static/media/fruitbowl.png": "/Mefit/static/media/fruitbowl.2acd3098.png",
+    "static/media/grapes.png": "/Mefit/static/media/grapes.35f074e7.png",
+    "static/media/meatbowl.png": "/Mefit/static/media/meatbowl.ee344673.png",
+    "static/media/veg.png": "/Mefit/static/media/veg.8f4c8255.png",
+    "static/media/vegbowl.png": "/Mefit/static/media/vegbowl.aaecef7c.png"
   },
   "entrypoints": [
-    "static/css/main.06cde076.css",
-    "static/js/main.33cfe268.js"
+    "static/js/runtime-main.68b2230c.js",
+    "static/css/2.8ac840ac.chunk.css",
+    "static/js/2.9506257d.chunk.js",
+    "static/css/main.9870cec0.chunk.css",
+    "static/js/main.7ebafb68.chunk.js"
   ]
 }
