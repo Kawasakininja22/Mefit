@@ -1,0 +1,154 @@
+/* .head{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px;
+} 
+ .wrapper
+{
+   width: 100%;
+}
+
+#container{
+ 
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    border-radius: 30px;
+    min-height: 100vh;
+}
+ 
+
+.side-image{
+    background-image: url(../Asset/vegrev.png);
+     background-repeat: no-repeat;
+      background-size: contain;
+      position: relative;
+      background-position: center; 
+ 
+}
+#row{
+    width: 1300px;
+    height: 800px;
+    border-radius: 100px;
+   background-color: #FECB16;
+      padding: 60px;
+     
+}
+#contentrev{
+    margin-top: 5%;
+    width: 500px;
+    
+    margin-left: 40px;
+    
+}
+#contentrev h4{
+    display: flex;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    justify-content: center;
+    font-size: 40px;
+    color: aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+#contentrev ul{
+  display: flex;
+  list-style: none;
+  margin-left: 30%;
+}
+#contentrev p{
+    justify-content: center;
+     align-items: center;
+     width: 500px;
+     font-size: 25px;
+     margin-left: 3%;
+     margin-top: 50px;
+} */
+/* .container{
+      width: 100%;
+      background-color: aqua;
+}
+ .button span{
+
+    color: black;
+ } */
+  
+.review{
+   width: 100%;
+}
+  h1{
+   font-size: 50px;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   margin-bottom: 40px;
+   margin-top: 40px;
+}
+.carousel-inner img{
+  max-width:  55%;
+  margin-left: 23%;
+   
+}
+#button{
+   display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+#button span{
+   background-color: black;
+   cursor: pointer;
+    
+}
+/* .button
+{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+} */
+
+ /* .carousel-control-prev  ,
+ .carousel-control-next  {
+   color: black;
+   background-color: black;
+  
+
+ } */
+ 
+
+ /* .button
+ {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+ 
+ .carousel-inner img{
+    display: flex;
+    align-items: center;
+    margin-left: -10%;
+    justify-content: center;
+ }
+ .carousel-control-prev{
+    margin-left: -10%;
+    
+ }
+ .carousel-control-next{
+    margin-right: -8%;
+ }
+  
+ .carousel-control-prev img,
+ .carousel-control-next img
+ {
+    width: 30px;
+
+ }
+ .carousel-control-prev-icon  ,
+ .carousel-control-next-icon  {
+    
+    fill: black;
+     background-color: purple;
+ }
+   */

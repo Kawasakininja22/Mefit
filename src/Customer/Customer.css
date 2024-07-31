@@ -1,0 +1,154 @@
+  .wrap{
+   width: 100%;
+   background-color: #FECB16;
+   height: 110vh;
+}
+
+h1{
+   color: white;
+}
+
+#contact{
+  
+   width: 101% ;
+   height: 100vh auto;
+   display: flex;
+   border-radius: 20px;
+   padding: 0px;
+
+}
+.main{
+    
+   justify-content: center;
+   align-items: center;
+   
+ 
+}
+
+ #inputfield{
+    padding-top: 5%;
+    backdrop-filter: blur(10px);
+     background-color: rgba(255, 255, 255, 0.5);
+    margin-left: 20%;
+     width:30%; 
+     border-top-left-radius: 140px;
+      left: -10px;
+      border-bottom-left-radius: 140px;
+ }
+ #image{
+   border-top-right-radius: 140px;
+   border-bottom-right-radius: 140px;
+  
+    width: 30%;
+   height: 100vh;
+   background-image: url(../Asset/back1.png);
+   background-repeat: no-repeat;
+   display: flex;
+    
+ }
+   /* #image{
+  width: calc(60% - 100%);
+  margin-left: -1%;
+ /* } * */
+ 
+ 
+ .input-field{
+   margin-top: 20px;
+   display: flex;
+    flex-direction: column;
+    margin-bottom: 40px;
+    position: relative;
+    padding: 0 10px 0 10px;
+   
+ }
+ 
+ .input-field label{
+   font-size: 20px;
+   color: black;
+   margin-left: 20px;
+ }
+  
+ .input{
+   height: 45px;
+   width: 80%;
+   background: transparent;
+   border: none;
+   border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+   outline: none;
+   margin-bottom: 20px;
+   margin-top: 40px;
+   color: black;
+   cursor: text;
+   font-size: 20px;
+   margin-left: 20px;
+  
+}
+.input-box 
+.input-field label{
+   position: absolute;
+   top: 10px;
+   left: 10px;
+   pointer-events: none;
+   transition: .5s;
+}
+.input-field input:focus ~ label
+   {
+    top: -10px;
+    font-size: 23px;
+  }
+  .input-field input:valid ~ label
+  {
+   top: -10px;
+   font-size: 23px;
+   color: #5d5076;
+ }
+
+ 
+
+ #inputfield button{
+ display: flex;
+  width:   200px;
+   height: 40px;
+   font-size: 30px;
+   align-items: center;
+   justify-content: center;
+ margin-left: 30%;
+ margin-top: 60px;
+ padding: 30px;
+ background-color: transparent;
+ border-radius: 20px;
+ }
+ #inputfield button:hover{
+
+    background-color:#FECB16;
+    transition: 0.6s ease;
+
+ }  
+
+
+
+ @media ( max-width: 576px) { 
+   .wrap{
+      width: 100%;
+      background-color: #FECB16;
+      
+   } 
+   
+ #inputfield{
+  
+   backdrop-filter: blur(10px);
+    background-color: rgba(255, 255, 255, 0.5);
+    width:50%; 
+    border-top-left-radius: 140px;
+     border-bottom-left-radius: 140px;
+}
+ #inputfield{
+   width: 100%;
+ }
+
+  }
+  @media (max-width: 768px) {  
+
+
+
+   }
