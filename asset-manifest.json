@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Mefit/static/css/main.290dfa2a.chunk.css",
-    "main.js": "/Mefit/static/js/main.7ebafb68.chunk.js",
-    "main.js.map": "/Mefit/static/js/main.7ebafb68.chunk.js.map",
+    "main.css": "/Mefit/static/css/main.730a8e4f.chunk.css",
+    "main.js": "/Mefit/static/js/main.8baea1e6.chunk.js",
+    "main.js.map": "/Mefit/static/js/main.8baea1e6.chunk.js.map",
     "runtime-main.js": "/Mefit/static/js/runtime-main.68b2230c.js",
     "runtime-main.js.map": "/Mefit/static/js/runtime-main.68b2230c.js.map",
     "static/css/2.8ac840ac.chunk.css": "/Mefit/static/css/2.8ac840ac.chunk.css",
-    "static/js/2.9506257d.chunk.js": "/Mefit/static/js/2.9506257d.chunk.js",
-    "static/js/2.9506257d.chunk.js.map": "/Mefit/static/js/2.9506257d.chunk.js.map",
+    "static/js/2.207a54d8.chunk.js": "/Mefit/static/js/2.207a54d8.chunk.js",
+    "static/js/2.207a54d8.chunk.js.map": "/Mefit/static/js/2.207a54d8.chunk.js.map",
     "static/js/3.5b4a847c.chunk.js": "/Mefit/static/js/3.5b4a847c.chunk.js",
     "static/js/3.5b4a847c.chunk.js.map": "/Mefit/static/js/3.5b4a847c.chunk.js.map",
     "index.html": "/Mefit/index.html",
-    "precache-manifest.4a8fed7567f93caf2140ca4e1b991573.js": "/Mefit/precache-manifest.4a8fed7567f93caf2140ca4e1b991573.js",
+    "precache-manifest.67bc49982fb48b6add6ae523798179a7.js": "/Mefit/precache-manifest.67bc49982fb48b6add6ae523798179a7.js",
     "service-worker.js": "/Mefit/service-worker.js",
     "static/css/2.8ac840ac.chunk.css.map": "/Mefit/static/css/2.8ac840ac.chunk.css.map",
-    "static/css/main.290dfa2a.chunk.css.map": "/Mefit/static/css/main.290dfa2a.chunk.css.map",
-    "static/js/2.9506257d.chunk.js.LICENSE.txt": "/Mefit/static/js/2.9506257d.chunk.js.LICENSE.txt",
+    "static/css/main.730a8e4f.chunk.css.map": "/Mefit/static/css/main.730a8e4f.chunk.css.map",
+    "static/js/2.207a54d8.chunk.js.LICENSE.txt": "/Mefit/static/js/2.207a54d8.chunk.js.LICENSE.txt",
     "static/media/Rev1.png": "/Mefit/static/media/Rev1.ec009df8.png",
     "static/media/Rev2.png": "/Mefit/static/media/Rev2.9a89beec.png",
     "static/media/back.png": "/Mefit/static/media/back.2342132e.png",
@@ -30,8 +30,8 @@
   "entrypoints": [
     "static/js/runtime-main.68b2230c.js",
     "static/css/2.8ac840ac.chunk.css",
-    "static/js/2.9506257d.chunk.js",
-    "static/css/main.290dfa2a.chunk.css",
-    "static/js/main.7ebafb68.chunk.js"
+    "static/js/2.207a54d8.chunk.js",
+    "static/css/main.730a8e4f.chunk.css",
+    "static/js/main.8baea1e6.chunk.js"
   ]
 }

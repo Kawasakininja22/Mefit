@@ -1,31 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b73a6b83cfbb0fb89098361ed2fbf422",
+    "revision": "f90cc9bad4658241ef04f9467c64b1a1",
     "url": "/Mefit/index.html"
   },
   {
-    "revision": "043bd2f8e460fe96a43a",
+    "revision": "2d976467c468c380baad",
     "url": "/Mefit/static/css/2.8ac840ac.chunk.css"
   },
   {
-    "revision": "7f0ac39bfb3013a55793",
-    "url": "/Mefit/static/css/main.290dfa2a.chunk.css"
+    "revision": "69e180656d078929b93d",
+    "url": "/Mefit/static/css/main.730a8e4f.chunk.css"
   },
   {
-    "revision": "043bd2f8e460fe96a43a",
-    "url": "/Mefit/static/js/2.9506257d.chunk.js"
+    "revision": "2d976467c468c380baad",
+    "url": "/Mefit/static/js/2.207a54d8.chunk.js"
   },
   {
     "revision": "a380a4c58228e1a19ed1e19105eb0602",
-    "url": "/Mefit/static/js/2.9506257d.chunk.js.LICENSE.txt"
+    "url": "/Mefit/static/js/2.207a54d8.chunk.js.LICENSE.txt"
   },
   {
     "revision": "8f61b33c4176ba046dbb",
     "url": "/Mefit/static/js/3.5b4a847c.chunk.js"
   },
   {
-    "revision": "7f0ac39bfb3013a55793",
-    "url": "/Mefit/static/js/main.7ebafb68.chunk.js"
+    "revision": "69e180656d078929b93d",
+    "url": "/Mefit/static/js/main.8baea1e6.chunk.js"
   },
   {
     "revision": "5fc152af5b3f40c81137",
